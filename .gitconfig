@@ -1,0 +1,7 @@
+[user]
+	name = "Lucky Art Prog"
+	email = lucky.art.prog@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = vim
